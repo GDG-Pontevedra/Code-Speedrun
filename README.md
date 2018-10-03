@@ -1,2 +1,2 @@
 # Code-Speedrun
-Repositorio con soluciones en varios lenguajes de programación a los retos de Code Speedrun.
+Repositorio con solucións en varias linguaxes de programación aos retos de Code Speedrun.
